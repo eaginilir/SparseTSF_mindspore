@@ -1,1 +1,9 @@
-将pytorch框架改为mindspore框架
+.idea/
+*.pyc
+*.pth
+dataset/
+result.txt
+test_results/
+results/
+logs/
+.DS_Store
